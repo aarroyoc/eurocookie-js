@@ -1,0 +1,21 @@
+{
+  "name": "eurocookie-js",
+  "version": "1.0.0",
+  "description": "eurocookie-js is a fork from Google CookieChoices. It adds aysnc cookie load",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianArroyoCalle/eurocookie-js"
+  },
+  "keywords": [
+    "cookies"
+  ],
+  "author": "Adrián Arroyo Calle",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/AdrianArroyoCalle/eurocookie-js/issues"
+  }
+}
