@@ -1,7 +1,7 @@
 eurocookie-js
 =============
 
-eurocookie-js is a fork from Google CookieChoices with async loading of cookies. Allowing users to not install cookies if they don't want it.
+eurocookie-js is a full, yet simple to use, library to request consent for cookies. It doesn't allow cookies until consent is granted. It also comes with the translated messages prepared to be shown to the users.
 
 # Features
 
