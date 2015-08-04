@@ -51,8 +51,10 @@ function setup(window) {
           'top:0;left:0;opacity:0.5;filter:alpha(opacity=50);' +
           'background-color:#ccc;';
       var dialogStyle = 'z-index:1000;position:fixed;left:50%;top:50%';
-      var contentStyle = 'position:relative;left:-50%;margin-top:-25%;' +
-          'background-color:#fff;padding:20px;box-shadow:4px 4px 25px #888;';
+      //var contentStyle = 'position:relative;left:-50%;margin-top:-25%;' +
+      //    'background-color:#fff;padding:20px;box-shadow:4px 4px 25px #888;';
+      var contentStyle = "position:fixed;left:0px;top:0px;" +
+ 			"background-color:#fff;padding:20px;box-shadow:4px 4px 25px #888;";
 
       var cookieConsentElement = document.createElement('div');
       cookieConsentElement.id = cookieConsentId;
