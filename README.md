@@ -35,6 +35,7 @@ It will load all script tags with the class cookielike this
 
 Remember that you must set the script type to "text/plain" to prevent the execution
 
+
 # Using script tag
 
 __eurocookie-js__ can also be used with a simple script tag. Put it at the very end of the HTML file.
@@ -49,4 +50,16 @@ __eurocookie-js__ can also be used with a simple script tag. Put it at the very 
   </script>
 </body>
 </html>
+```
+
+# Using Bower
+
+```sh
+bower install eurocookie-js --save
+```
+
+And remember to put the correct path destination
+
+```html
+<script src="bower_components/eurocookie-js/index.js"></script>
 ```
