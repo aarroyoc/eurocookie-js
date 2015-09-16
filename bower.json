@@ -1,0 +1,33 @@
+{
+  "name": "eurocookie-js",
+  "main": "index.js",
+  "homepage": "https://github.com/AdrianArroyoCalle/eurocookie-js",
+  "authors": [
+    {"name": "Adrián Arroyo Calle", "email": "adrian.arroyocalle@gmail.com", "homepage": "http://adrianarroyocalle.github.io"}
+  ],
+  "moduleType" : [
+    "node",
+    "globals"
+  ],
+  "repository" : {
+	"type": "git",
+	"url": "git://github.com/AdrianArroyoCalle/eurocookie-js.git"  
+  },
+  "description": "eurocookie-js is a full, yet simple to use, library to request consent for cookies",
+  "keywords": [
+    "europe",
+    "cookie",
+    "cookies",
+    "consent",
+    "law",
+    "eu"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
