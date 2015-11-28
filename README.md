@@ -1,6 +1,8 @@
 eurocookie-js
 =============
 
+[![Join the chat at https://gitter.im/AdrianArroyoCalle/eurocookie-js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AdrianArroyoCalle/eurocookie-js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 eurocookie-js is a full, yet simple to use, library to request consent for cookies. It doesn't allow cookies until consent is granted. It also comes with the translated messages prepared to be shown to the users.
 
 # Features
